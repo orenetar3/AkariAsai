@@ -1,8 +1,5 @@
 ### Hi there 👋
-I am a second-year PhD student at University of Washington advised by ‪Hannaneh Hajishirzi‬. I work on Natural Language Processing as part of UW NLP, with a focus on Question Answering, Machine Reading Comprehension and Reasoning. 
-
-[![Akari's github stats](https://github-readme-stats.vercel.app/api?username=AkariAsai&show_icons=true)](https://github.com/AkariAsai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkariAsai&hide=jupyter%20notebook,tex&langs_count=10&layout=compact)](https://github.com/AkariAsai/github-readme-stats)
+I am a third-year PhD student at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), University of Washington advised by [‪Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/)‬. I work on Natural Language Processing as part of UW NLP, with a focus on Question Answering, Multilingual NLP and knowledge representations. Before UW, I obtained a B.E. degree in Electrical Engineering and Computer Science (EEIC) from The University of Tokyo. 
 
 ## Contact
 - Personal Website: [akariasai.github.io/](https://akariasai.github.io/)
